@@ -1,2 +1,2 @@
 # drum-kit
-![텍스트][https://blog.kakaocdn.net/dn/bZV4x6/btsudQ89mH6/K4FI2bG1ODHYoZI1qYpsAK/img.png]
+![img1 daumcdn](https://github.com/Uhyunjin/drum-kit/assets/98440593/d4cb9f22-0e78-4f61-bb95-6d8eaa4ad6df)
